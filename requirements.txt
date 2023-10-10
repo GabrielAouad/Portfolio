@@ -4,7 +4,7 @@ streamlit
 seaborn
 matplotlib
 scikit-learn
-train_test_split
+#train_test_split
 scipy.stats
 pearsonr
 LabelEncoder
