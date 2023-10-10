@@ -27,5 +27,6 @@ sklearn.model_selection
 cross_val_score
 sklearn.svm
 SVC
-from sklearn.ensemble import GradientBoostingClassifier
-import shap 
+sklearn.ensemble
+GradientBoostingClassifier
+shap 
