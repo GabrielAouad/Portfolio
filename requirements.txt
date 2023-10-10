@@ -18,7 +18,7 @@ load
 #KNeighborsClassifier
 #DecisionTreeClassifier
 #RandomForestClassifier
-cross_val_score
+#cross_val_score
 #SVC
 #GradientBoostingClassifier
 shap 
