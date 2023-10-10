@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from scipy.stats import pearsonr
 from sklearn.preprocessing import LabelEncoder
-import scikitplot as skplt
+#import scikitplot as skplt
 from io import StringIO
 from joblib import load
 from sklearn.preprocessing import StandardScaler
