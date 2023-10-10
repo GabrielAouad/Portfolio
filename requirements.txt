@@ -3,7 +3,7 @@ numpy
 streamlit
 seaborn
 matplotlib
-sklearn
+scikit-learn
 train_test_split
 scipy.stats
 pearsonr
